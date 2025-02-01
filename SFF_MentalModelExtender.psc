@@ -1023,7 +1023,7 @@ EndFunction
 
 
 
-;; NEW CODE!
+;; HALLAHMDULILLAH! NEW CODE! - HALLAHMDULILLAH! NEW CODE! - HALLAHMDULILLAH! NEW CODE! - HALLAHMDULILLAH! NEW CODE! -
 
 Bool Function bIsHome()
 	Location loc = _player.GetCurrentLocation()
